@@ -5,5 +5,14 @@ public class HomeWork2_1 {
         System.out.println("My name Diyaz");
 
         System.out.println("I am 14");
+
+        System.out.println("ss");
+        System.out.println("  ");
+        System.out.println("""
+                scxcvxvxc
+                cxzckzxchjzn
+                cxcvbnm
+                rfv
+                dfdfdfx""");
     }
 }
