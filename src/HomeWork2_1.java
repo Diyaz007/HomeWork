@@ -3,5 +3,7 @@ public class HomeWork2_1 {
         System.out.println("Hello, World");
 
         System.out.println("My name Diyaz");
+
+        System.out.println("I am 14");
     }
 }
