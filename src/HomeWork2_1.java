@@ -1,18 +1,10 @@
 public class HomeWork2_1 {
     public static void main(String[] args) {
-        System.out.println("Hello, World");
-
-        System.out.println("My name Diyaz");
-
-        System.out.println("I am 14");
-
-        System.out.println("ss");
-        System.out.println("  ");
-        System.out.println("""
-                scxcvxvxc
-                cxzckzxchjzn
-                cxcvbnm
-                rfv
-                dfdfdfx""");
+        System.out.println("1)Git - это система для управления версиями или для совместных проектов.");
+        System.out.println("2)Система управления версиями позволяет хранить несколько версий одного и того же документа.");
+        System.out.println("3)Удаленный репозиторий храниться в GitHub, Локальный репозиторий храниться на устройстве но не в GitHub.");
+        System.out.println("4)Команда Commit сохраняет действия сделанные с проектом на устройстве.");
+        System.out.println("5)Команда Push отправляет проект на GitHub, но перед командой Push надо сделать Commit.");
+        System.out.println("6)Ветки нужны для того, чтобы программисты могли вести совместную работу над проектом и не мешать друг другу при этом");
     }
 }
